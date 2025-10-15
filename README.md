@@ -1,12 +1,12 @@
-<h1 align="left">Hey there! I'm Heisenberg 👋</h1>
+<h1 align="left">Hey there! I'm Rajanya Roy 👋</h1>
 
 ###
 
-<p align="left">Welcome to my space!<br>I'm Rajanya Roy — a passionate Frontend Developer and Game Developer from India, creating futuristic, AI-driven, and immersive experiences.</p>
+<p align="left">I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from India, creating futuristic, AI-driven, and immersive experiences.</p>
 
 ###
 
-<h2 align="left">Follow Me</h2>
+<h2 align="left">Let's connect</h2>
 
 ###
 
@@ -83,18 +83,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
-</div>
-
-###
-
-<h2 align="left">My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajanyaRoy&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajanyaRoy&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=RajanyaRoy&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ###
