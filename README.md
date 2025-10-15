@@ -89,10 +89,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.gifer.com/7I3B.gif" alt="galactic animation" />
-</div>
-
 ###
 
 <img align="right" height="200" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding gif" />
