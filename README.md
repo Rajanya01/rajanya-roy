@@ -22,7 +22,6 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
   <a href="https://www.linkedin.com/in/rajanya-roy-7bb494358/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=heisenberg.&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=RajanyaRoy&label=PROFILE+VIEWS)
@@ -33,15 +32,15 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 
 <table>
   <tr>
-    <td width="250">
+    <td width="250" valign="top">
       <img align="left" height="200" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding gif" />
     </td>
     <td>
-      <p>
-        - I build interactive web apps and 3D experiences using <b>Next.js</b>, <b>Three.js</b>, and <b>Tailwind</b>.<br>
-        - I develop games with <b>Unity</b> and C#, focusing on immersive storytelling.<br>
-        - Currently exploring <b>AI integrations</b> for futuristic learning platforms.<br>
-      </p>
+      <ul style="list-style: none; padding-left: 15px; line-height: 2;">
+        <li>💻 I build interactive web apps and 3D experiences using <b>Next.js</b>, <b>Three.js</b>, and <b>Tailwind</b>.</li>
+        <li>🎮 I develop games with <b>Unity</b> and <b>C#</b>, focusing on immersive storytelling.</li>
+        <li>🤖 Currently exploring <b>AI integrations</b> for futuristic learning platforms.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -50,30 +49,28 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 
 <h2 align="left">My Skills</h2>
 
----
-
 <h3 align="left">Languages</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,html,css" height="40" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,html,css&perline=7" height="45" style="margin: 10px;" alt="languages" />
 </div>
-
----
 
 <h3 align="left">Libraries & Frameworks</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,vite" height="40" alt="libraries and frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,vite&perline=7" height="45" style="margin: 10px;" alt="libraries and frameworks" />
 </div>
-
----
 
 <h3 align="left">Tools & Platforms</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb" height="40" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb&perline=6" height="45" style="margin: 10px;" alt="tools and platforms" />
 </div>
 
-![Rajanya01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanya01&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-
 ---
+
+<h2 align="left">📊 My Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanya01&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="170" alt="Rajanya's Top Languages" />
+</div>
