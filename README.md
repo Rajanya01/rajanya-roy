@@ -52,19 +52,19 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 <h3 align="left">Languages</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,html,css&perline=7" height="50" style="margin: 10px;" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,html,css&perline=7" height="60" style="margin: 12px;" alt="languages" />
 </div>
 
 <h3 align="left">Libraries & Frameworks</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,vite&perline=7" height="50" style="margin: 10px;" alt="libraries and frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,vite&perline=7" height="60" style="margin: 12px;" alt="libraries and frameworks" />
 </div>
 
 <h3 align="left">Tools & Platforms</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb&perline=6" height="50" style="margin: 12px;" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb&perline=5" height="60" style="margin: 14px;" alt="tools and platforms" />
 </div>
 
 ---
