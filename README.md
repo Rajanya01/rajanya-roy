@@ -13,13 +13,13 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 ###
 
 <div align="left">
-  <a href="https://github.com/RajanyaRoy" target="_blank">
+  <a href="https://github.com/Rajanya01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
-  <a href="mailto:rajanyaroy040@gmail.com" target="_blank">
+  <a href="mailto:rajanyar910040@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rajanya-roy04" target="_blank">
+  <a href="https://www.linkedin.com/in/rajanya-roy-7bb494358/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=heisenberg.&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -38,10 +38,9 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
     </td>
     <td>
       <p>
-        💻 I build interactive web apps and 3D experiences using <b>Next.js</b>, <b>Three.js</b>, and <b>Tailwind</b>.<br>
-        🎮 I develop games with <b>Unity</b> and C#, focusing on immersive storytelling.<br>
-        🚀 Currently exploring <b>AI integrations</b> for futuristic learning platforms.<br>
-        ⚡ I love crafting <b>cinematic, Marvel-inspired UIs</b> and seamless digital experiences.
+        - I build interactive web apps and 3D experiences using <b>Next.js</b>, <b>Three.js</b>, and <b>Tailwind</b>.<br>
+        - I develop games with <b>Unity</b> and C#, focusing on immersive storytelling.<br>
+        - Currently exploring <b>AI integrations</b> for futuristic learning platforms.<br>
       </p>
     </td>
   </tr>
@@ -49,7 +48,7 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 
 ---
 
-<h2 align="left">Things I Build With</h2>
+<h2 align="left">My Skills</h2>
 
 ---
 
