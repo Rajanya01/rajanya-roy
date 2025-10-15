@@ -52,25 +52,26 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 <h3 align="left">Languages</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,html,css&perline=7" height="45" style="margin: 10px;" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,html,css&perline=7" height="50" style="margin: 10px;" alt="languages" />
 </div>
 
 <h3 align="left">Libraries & Frameworks</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,vite&perline=7" height="45" style="margin: 10px;" alt="libraries and frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,vite&perline=7" height="50" style="margin: 10px;" alt="libraries and frameworks" />
 </div>
 
 <h3 align="left">Tools & Platforms</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb&perline=6" height="45" style="margin: 10px;" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb&perline=6" height="50" style="margin: 12px;" alt="tools and platforms" />
 </div>
 
 ---
 
 <h2 align="left">📊 My Stats</h2>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanya01&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="170" alt="Rajanya's Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajanya01&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="180" alt="Rajanya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanya01&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="180" alt="Rajanya's Top Languages" />
 </div>
