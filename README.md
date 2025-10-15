@@ -29,63 +29,31 @@
 
 <h2 align="left">Things I Build With</h2>
 
-###
+---
 
 <h3 align="left">Languages</h3>
 
-###
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,html,css" height="40" alt="languages" />
 </div>
 
-###
+---
 
 <h3 align="left">Libraries & Frameworks</h3>
 
-###
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express,vite" height="40" alt="libraries and frameworks" />
 </div>
 
-###
+---
 
 <h3 align="left">Tools & Platforms</h3>
 
-###
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
+  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb" height="40" alt="tools and platforms" />
 </div>
 
-###
+---
 
 <br clear="both">
 
@@ -94,4 +62,3 @@
 <img align="right" height="200" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding gif" />
 
 ###
-
