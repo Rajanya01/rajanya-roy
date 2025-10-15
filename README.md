@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from India, creating futuristic, AI-driven, and immersive experiences.</p>
+<p align="left">
+I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from India, creating futuristic, AI-driven, and immersive experiences.
+</p>
 
 ###
 
@@ -25,7 +27,27 @@
 
 ![](https://komarev.com/ghpvc/?username=RajanyaRoy&label=PROFILE+VIEWS)
 
-###
+---
+
+<h2 align="left">About Me</h2>
+
+<table>
+  <tr>
+    <td width="250">
+      <img align="left" height="200" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding gif" />
+    </td>
+    <td>
+      <p>
+        💻 I build interactive web apps and 3D experiences using <b>Next.js</b>, <b>Three.js</b>, and <b>Tailwind</b>.<br>
+        🎮 I develop games with <b>Unity</b> and C#, focusing on immersive storytelling.<br>
+        🚀 Currently exploring <b>AI integrations</b> for futuristic learning platforms.<br>
+        ⚡ I love crafting <b>cinematic, Marvel-inspired UIs</b> and seamless digital experiences.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <h2 align="left">Things I Build With</h2>
 
@@ -54,11 +76,3 @@
 </div>
 
 ---
-
-<br clear="both">
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding gif" />
-
-###
