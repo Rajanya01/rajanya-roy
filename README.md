@@ -74,4 +74,6 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
   <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb" height="40" alt="tools and platforms" />
 </div>
 
+![Rajanya01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanya01&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+
 ---
