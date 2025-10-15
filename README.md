@@ -13,14 +13,14 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 ###
 
 <div align="left">
-  <a href="https://github.com/Rajanya01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <a href="https://github.com/Rajanya01">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
-  <a href="mailto:rajanyar910040@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:rajanyar910040@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/rajanya-roy-7bb494358/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/rajanya-roy-7bb494358/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
@@ -64,7 +64,7 @@ I'm Rajanya Roy — a passionate Full Stack Developer and Game Developer from In
 <h3 align="left">Tools & Platforms</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb&perline=5" height="60" style="margin: 14px;" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,blender,vercel,figma,unity,vscode,firebase,supabase,azure,mongodb&perline=4" height="70" style="margin: 14px;" alt="tools and platforms" />
 </div>
 
 ---
